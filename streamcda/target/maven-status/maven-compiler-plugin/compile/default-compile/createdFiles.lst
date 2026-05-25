@@ -1,0 +1,16 @@
+pl\alan\streamcda\security\SwaggerConfig.class
+pl\alan\streamcda\StreamcdaApplication.class
+pl\alan\streamcda\security\JwtUtils.class
+pl\alan\streamcda\security\SecurityConfig.class
+pl\alan\streamcda\controller\MovieController.class
+pl\alan\streamcda\controller\UserController.class
+pl\alan\streamcda\controller\SubscriptionController.class
+pl\alan\streamcda\entity\Movie.class
+pl\alan\streamcda\repository\UserRepository.class
+pl\alan\streamcda\security\JwtAuthenticationFilter.class
+pl\alan\streamcda\dto\LoginRequest.class
+pl\alan\streamcda\dto\LoginResponse.class
+pl\alan\streamcda\entity\User.class
+pl\alan\streamcda\controller\AuthController.class
+pl\alan\streamcda\repository\MovieRepository.class
+pl\alan\streamcda\dto\RegisterRequest.class

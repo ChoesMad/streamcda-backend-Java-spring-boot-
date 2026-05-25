@@ -1,0 +1,16 @@
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\controller\AuthController.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\controller\MovieController.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\controller\SubscriptionController.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\controller\UserController.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\dto\LoginRequest.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\dto\LoginResponse.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\dto\RegisterRequest.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\entity\Movie.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\entity\User.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\repository\MovieRepository.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\repository\UserRepository.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\security\JwtAuthenticationFilter.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\security\JwtUtils.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\security\SecurityConfig.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\security\SwaggerConfig.java
+E:\Programowanie\IntelliJIDEA\FreeCodes\streamcda\streamcda\src\main\java\pl\alan\streamcda\StreamcdaApplication.java
